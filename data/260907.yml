@@ -5,7 +5,7 @@ about:
   head: c146b5b
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T04:37:37Z
+  collectedAt: 2026-09-07T19:44:25Z
 timeline:
   created: 2010-02-19
   lastCommit: 2025-01-24
@@ -81,7 +81,7 @@ total:
   commit: 1816
 ---
 path: /home/runner/.x-repo/github.com/miyagawa/cpanminus
-collectedAt: 2026-09-07T04:37:39Z
+collectedAt: 2026-09-07T19:44:26Z
 loc:
   Perl:
     code: 36459
@@ -199,7 +199,7 @@ checks:
       - 'Warn: 0 commits out of 22 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:37:40+00:00
+  collectedAt: 2026-09-07T19:44:27+00:00
   platform:
     darwin/arm64:
       name:  null
