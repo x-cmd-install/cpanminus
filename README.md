@@ -7,7 +7,7 @@ cpanminus - get, unpack, build and install modules from CPAN
 - **Latest release**: `` (n/a)
 - **Last commit**: 2025-01-24
 - **License**: NOASSERTION
-- **Stars**: 781 · **Forks**: 211 · **Open issues**: 471 · **Contributors**: 69
+- **Stars**: 782 · **Forks**: 211 · **Open issues**: 471 · **Contributors**: 69
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/cpanminus> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:46:36Z._
+_Last regenerated: 2026-09-09T04:36:50Z._
