@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:49:21Z
+  collectedAt: 2026-09-11T20:12:44Z
 timeline:
   created: 2010-02-19
   lastCommit: 2025-01-24
@@ -85,7 +85,7 @@ total:
   commit: 1816
 ---
 path: /home/runner/.x-repo/github.com/miyagawa/cpanminus
-collectedAt: 2026-09-11T04:49:22Z
+collectedAt: 2026-09-11T20:12:46Z
 loc:
   Perl:
     code: 36459
