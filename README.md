@@ -14,11 +14,11 @@ x install cpanminus
 
 ## Code insight
 
-Total: **40,641** lines of code across **217** files in the top 5 languages.
+Total: **40,671** lines of code across **217** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Perl | 36,459 | 14,656 | 7,399 | 193 |
+| Perl | 36,489 | 14,659 | 7,407 | 193 |
 | CHeader | 3,103 | 3,378 | 582 | 1 |
 | Json | 1,049 | 0 | 7 | 11 |
 | Ini | 30 | 1 | 6 | 5 |
@@ -26,12 +26,12 @@ Total: **40,641** lines of code across **217** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **2.7 / 10**
+Overall score: **3.1 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Code-Review** (3/10) — Found 6/16 approved changesets -- score normalized to 3
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (2/10) — Found 4/20 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 784 · **Forks**: 209 · **Open issues**: 471 · **Contributors**: 69
+- **Stars**: 783 · **Forks**: 209 · **Open issues**: 471 · **Contributors**: 70
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 94 · **Open PRs**: 36 · **Closed issues**: 360 · **Open issues**: 111 · **Commits**: 1816
+- **Releases**: 0 · **Merged PRs**: 94 · **Open PRs**: 36 · **Closed issues**: 360 · **Open issues**: 111 · **Commits**: 1822
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-04-24 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 360d | 2025-10-26 | 0 | 0 | 2 | 4 | 2 | 0 |
-| last720d | 2024-10-31 | 0 | 1 | 3 | 4 | 10 | 3 |
+| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 6 |
+| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 6 |
+| 90d | 2026-07-24 | 0 | 0 | 1 | 0 | 0 | 6 |
+| last180d | 2026-04-25 | 0 | 0 | 2 | 0 | 1 | 6 |
+| 360d | 2025-10-27 | 0 | 0 | 2 | 4 | 2 | 6 |
+| last720d | 2024-11-01 | 0 | 1 | 3 | 4 | 10 | 8 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for cpanminus lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:44:02Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:37:32Z._
