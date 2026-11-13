@@ -24,6 +24,16 @@ x install cpanminus
 | Ini | 30 | 1 | 6 | 5 |
 | Markdown | 0 | 260 | 143 | 7 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **3.1 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (2/10) — Found 4/20 approved changesets -- score normalized to 2
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/miyagawa/cpanminus>
@@ -42,12 +52,12 @@ x install cpanminus
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 0 | 6 |
-| last60d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 6 |
-| 90d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 6 |
-| last180d | 2026-05-16 | 0 | 0 | 2 | 0 | 0 | 6 |
-| 360d | 2025-11-17 | 0 | 0 | 2 | 4 | 2 | 6 |
-| last720d | 2024-11-22 | 0 | 1 | 3 | 4 | 10 | 8 |
+| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 0 | 6 |
+| last60d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 6 |
+| 90d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 6 |
+| last180d | 2026-05-17 | 0 | 0 | 2 | 0 | 0 | 6 |
+| 360d | 2025-11-18 | 0 | 0 | 2 | 4 | 2 | 6 |
+| last720d | 2024-11-23 | 0 | 1 | 3 | 4 | 10 | 8 |
 
 ## 改进这些数据
 
@@ -58,4 +68,4 @@ cpanminus 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261112.yml` · 2026-11-12T07:13:40Z._
+_数据快照: `data/card/261113.yml` · 2026-11-13T06:41:05Z._
