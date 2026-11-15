@@ -24,16 +24,6 @@ Total: **40,671** lines of code across **217** files in the top 5 languages.
 | Ini | 30 | 1 | 6 | 5 |
 | Markdown | 0 | 260 | 143 | 7 |
 
-## OpenSSF Scorecard
-
-Overall score: **3.1 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (2/10) — Found 4/20 approved changesets -- score normalized to 2
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Packaging** (-1/10) — packaging workflow not detected
-
 ## Source
 
 - **Upstream**: <https://github.com/miyagawa/cpanminus>
@@ -52,12 +42,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 0 | 0 | 0 | 0 | 6 |
-| last60d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 6 |
-| 90d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 6 |
-| last180d | 2026-05-18 | 0 | 0 | 2 | 0 | 0 | 6 |
-| 360d | 2025-11-19 | 0 | 0 | 2 | 4 | 2 | 6 |
-| last720d | 2024-11-24 | 0 | 1 | 3 | 4 | 10 | 8 |
+| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 6 |
+| 90d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 6 |
+| last180d | 2026-05-19 | 0 | 0 | 2 | 0 | 0 | 6 |
+| 360d | 2025-11-20 | 0 | 0 | 2 | 4 | 2 | 6 |
+| last720d | 2024-11-25 | 0 | 1 | 3 | 4 | 10 | 8 |
 
 ## Improve this data
 
@@ -68,4 +58,4 @@ Install metadata for cpanminus lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:18:38Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:27:53Z._
